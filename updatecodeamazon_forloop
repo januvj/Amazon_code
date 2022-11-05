@@ -59,4 +59,5 @@ public class Launch_browser {
 			}
 			System.out.println();
 		}
+         driver.navigate.refresh();
 }
